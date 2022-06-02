@@ -1,4 +1,4 @@
-# Epitech-Minishell
+# Minishell
 Reproduction of a Linux command interpreter with basic commands.</br>
 I realized this program as part of a school project at Epitech Paris.
 
@@ -24,8 +24,6 @@ Note: When you're in a subfolder, you can go back by indicating ".." as destinat
 Here are a bunch of other commands you can try: https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/bin.html.
 
 # You can find me here
-<p>
-    <a href="https://www.linkedin.com/in/yorennz-zelina/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</p>
+<a href="https://www.linkedin.com/in/yorennz-zelina/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
