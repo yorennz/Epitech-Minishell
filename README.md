@@ -1,12 +1,12 @@
 # Epitech-Minishell
 Reproduction of a Linux command interpreter with basic commands.
 
-# How to test it?
+## How to test it?🤔
 - After downloading the repository from Github, simply go in from your
 terminal and compile it with the "make" command.
 - You can now test the command interpreter from the terminal with the command "./mysh".
 
-# Some commands you can take a look at
+## Some commands you can take a look at!🤓
 
 - ls: show files and folders present in the place you are. You can specify a target by indicating his name.
 - cd: allows you to move around your computer by indicating the name of the intended folder.
